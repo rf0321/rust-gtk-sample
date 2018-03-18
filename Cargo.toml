@@ -1,0 +1,12 @@
+[package]
+name = "rs_gui_app"
+version = "0.1.0"
+authors = ["ItinoseSan <dhelitus@gmail.com>"]
+
+[dependencies]
+gio= "0.2.0"
+
+[dependencies.gtk]
+version = "0.2.0"
+features = ["v3_16"] 
+
